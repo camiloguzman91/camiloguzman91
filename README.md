@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camiloguzman91
 - 👀 I’m an electrical engineer and web developer passionated by technology
-- 🌱 I’m currently improving my habilities in JavaScript and React
+- 🌱 I’m currently improving my abilities in JavaScript and React
 - 📫 You can get in touch with me in twitter: @camiloguzman_91
 
 <!---
