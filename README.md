@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @camiloguzman91
 - 👀 I’m an electrical engineer, data analyst and data scientist (in progress) passionated by technology
-- 🌱 I’m currently improving my abilities in JavaScript and React
+- 🌱 I’m currently improving my abilities in Python, Power BI, DAX and R.
 - 📫 You can get in touch with me in twitter: @camiloguzman_91
 
 <!---
