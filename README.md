@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @camiloguzman91
-- 👀 I’m an electrical engineer and web developer passionated by technology
+- 👀 I’m an electrical engineer, data analyst and data scientist (in progress) passionated by technology
 - 🌱 I’m currently improving my abilities in JavaScript and React
 - 📫 You can get in touch with me in twitter: @camiloguzman_91
 
